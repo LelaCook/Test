@@ -5,7 +5,7 @@ public class testing {
 		
 		int kick = 22;
 		
-		System.out.print("Help" + kick);
+		System.out.print("Help " + kick);
 		
 	}
 
